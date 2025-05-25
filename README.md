@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3d37eda-ea47-480f-a4ea-67a9b8d44466)# D-FLIPDLOP-NEGEDGE
+## D-FLIPDLOP-NEGEDGE
 
 **AIM:**
 
@@ -44,7 +44,7 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **PROGRAM**
 
- Developed by: JPurusothaman K
+ Developed by: Purusothaman K
  
  RegisterNumber:212224110046
  ```
